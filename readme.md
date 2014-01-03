@@ -16,4 +16,4 @@ Then simply add the following to any Wordpress page/post:
 
 It should look like this:
 
-![alt tag](https://raw.github.com/joshwilsonnc/DPLA-Search-Widget/cssdev/dpla-widget.png)
+![alt tag](https://raw.github.com/lfarrell/Wordpress-DPLA-Search-Widget-Plugin/dpla-widget.png)
