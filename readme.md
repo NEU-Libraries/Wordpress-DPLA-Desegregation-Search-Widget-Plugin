@@ -14,6 +14,6 @@ Then simply add the following to any Wordpress page/post:
 ```
 
 
-It should look like this on your Wordpress page:
+The widget should look like this on your Wordpress page:
 
 ![alt tag](https://raw.github.com/joshwilsonnc/DPLA-Search-Widget/cssdev/dpla-widget.png)
