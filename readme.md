@@ -16,4 +16,6 @@ Then simply add the following to any Wordpress page/post:
 
 The widget should look like this on your Wordpress page:
 
-![alt tag](https://raw.github.com/joshwilsonnc/DPLA-Search-Widget/cssdev/dpla-widget.png)
+![alt tag](https://raw.githubusercontent.com/NEU-Libraries/Wordpress-DPLA-Desegregation-Search-Widget-Plugin/master/DPLA-deseg-widget.png)
+
+
