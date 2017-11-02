@@ -5,7 +5,7 @@ It's written in pure JavaScript and CSS.  It has no external dependencies on lib
 Nor do you need a DPLA API key.
 
 Download the plugin from https://github.com/NEU-Libraries/Wordpress-DPLA-Desegregation-Search-Widget-Plugin/archive/master.zip.  
-Unzip the plugin and activate it in your admin panel.
+Upload the plugin and activate it in your admin panel.
 
 Then simply add the following to any Wordpress page/post:
 
