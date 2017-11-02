@@ -4,8 +4,8 @@ An embeddable widget to search the Digital Public Library of America collections
 It's written in pure JavaScript and CSS.  It has no external dependencies on libraries such as JQuery or Twitter Bootstrap.
 Nor do you need a DPLA API key.
 
-Download the plugin from https://github.com/NEU-Libraries/Wordpress-DPLA-Desegregation-Search-Widget-Plugin.  Unzip the plugin and activate
-it in your admin panel.
+Download the plugin from https://github.com/NEU-Libraries/Wordpress-DPLA-Desegregation-Search-Widget-Plugin/archive/master.zip.  
+Unzip the plugin and activate it in your admin panel.
 
 Then simply add the following to any Wordpress page/post:
 
