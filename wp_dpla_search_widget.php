@@ -12,7 +12,7 @@ Original Author URI: https://github.com/lfarrell/Wordpress-DPLA-Search-Widget-Pl
 
 
 function dpla_search_widget_load() {
-    wp_register_script('add-dpla-widget-js', 'http://liblab.neu.edu/dpla-widget/desegregation/dpla-deseg-search-widget.js', '', null,'');
+    wp_register_script('add-dpla-widget-js', 'https://liblab.neu.edu/dpla-widget/desegregation/dpla-deseg-search-widget.js', '', null,'');
     wp_enqueue_script('add-dpla-widget-js');
 }
 
