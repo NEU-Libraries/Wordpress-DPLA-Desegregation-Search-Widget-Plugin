@@ -1,0 +1,53 @@
+#dpla_search_widget {
+  background-color: #FFFFFF;
+  padding: 5px 5px 10px;
+  margin: 3px;
+  width: 210px;    
+  height: 240px;
+  text-align:left;
+}
+
+#dpla_search_widget,
+#dpla_search_widget input[type=text],
+#dpla_search_widget input[type=submit] {    
+    border: 1px solid #739AAE;
+    -moz-border-radius: 5px;
+    -webkit-border-radius: 5px;
+    border-radius: 15px;
+    #vertical-align: bottom;    
+    font-family: 'source_sans_pro_semiboldRg',arial,sans-serif;        
+    font-size: 12px;
+    font-weight: normal;    
+    padding: 1px;
+}
+
+#dpla_search_widget img {
+  float:none !important;
+  position: relative !important;
+  box-shadow: none !important;
+  border-radius: 10px;
+  width: 200px;
+  height: 200px;
+  padding-bottom: 5px;
+}
+
+#dpla_search_widget form {  
+    margin: 0;
+    padding: 0 0 5px 5px;
+}
+
+#dpla_search_widget input[type=text] {
+    color: #818285;
+    width: 115px !important;    
+    padding: 5px 5px 5px 5px;  
+//    height: 25px;    
+}
+
+#dpla_search_widget input[type=submit] {
+    cursor: pointer;
+    color: white;
+    background-color: #739AAE;
+    margin-left: 9px;
+    width: 57px;
+    height: 23px;    
+}
